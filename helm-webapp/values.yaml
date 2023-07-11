@@ -9,4 +9,4 @@ configmap:
 
 image:
   name: crazycoder1110/sample-node-app
-  tag: latest
+  tag: master
